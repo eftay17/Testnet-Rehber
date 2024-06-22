@@ -1,16 +1,6 @@
 
 ### Farcaster Node Hubble
 
-
-### Linkler
- * [Hercules Telegram](https://t.me/HerculesNode)
- * [Hercules Twitter](https://twitter.com/Herculesnode)
- * [Hercules Web](https://herculesnode.com)
- * [Hercules Warpcast](https://warpcast.com/herculesnode)
-
- * Resmi döküman : https://www.thehubble.xyz/intro/hubble.html
-
-
 ## 🟢 Ön Bilgilendirme
 - Bu işlem ile Farcaster üzerinde bir Node çalıştırabilirsiniz. 
 - Bunu yapabilmek için Warpcast hesabınızın olması gerekiyor yoksa buradan üye olun 5$ maliyeti var
