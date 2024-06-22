@@ -1,5 +1,9 @@
 
 ### Farcaster Node Hubble
+ * [Hercules Telegram](https://t.me/HerculesNode)
+ * [Hercules Twitter](https://twitter.com/Herculesnode)
+ * [Hercules Web](https://herculesnode.com)
+
 
 ## 🟢 Ön Bilgilendirme
 - Bu işlem ile Farcaster üzerinde bir Node çalıştırabilirsiniz. 
